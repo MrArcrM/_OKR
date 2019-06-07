@@ -14,19 +14,25 @@
 
 ​	'Recently my life is such a mess that I have no emotion to do anything else.'
 
+</br>
 
+</br>
 
 ​	My friends comfort me that it may not be a proper time to date with her.
 
 ​	But soberly I know that all because I'm not so attractive to her.
 
+</br>
 
+</br>
 
-​	I think I'm not so bad compared to most people in my ages.
+​	I don't think myself so bad compared to most people in my ages.
 
 ​	But apparently I'm also not so good enough.
 
+</br>
 
+</br>
 
 ​	So that's the reason I set up this repo to record how I change my life and myself.
 
@@ -34,7 +40,8 @@
 
 ​	And in the day of 12/05, let's see.
 
+</br>
 
+</br>
 
 ​	Good luck to you and myself. Best Wishes!☀️
-
