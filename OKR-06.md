@@ -14,9 +14,9 @@
 | O2 - 完成课内的学分     | KR6 - 完成《数据挖掘》大作业                                 |      |      |      |
 |                         | KR7 - 完成《数据挖掘》6/20的考试                             |      |      |      |
 | O3 - 9月脸上痘印消一半  | KR8 - 每天11:30睡，7:00起床                                  |      |      |      |
-|                         | KR9 - 早洁面                                                 | 1    |      |      |
-|                         | KR10 - 晚洁面                                                |      |      |      |
-|                         | KR11 - 每周两次面膜(周三、周六)                              |      |      |      |
+|                         | KR9 - 早洁面                                                 | 1+1  |      |      |
+|                         | KR10 - 晚洁面                                                | 0+1  |      |      |
+|                         | KR11 - 每周两次面膜(周三、周六)                              | 0+1  |      |      |
 |                         | KR12 - 每周10号去角质                                        |      |      |      |
 | O4 - 塑造好身材         | KR13 - 每周健身4天                                           | 2    |      |      |
 | O5 - 了解行业资讯       | KR14 - 每周完成1套ARTS，并同步至Github                       | 1    |      |      |
@@ -41,3 +41,9 @@
 
 + 晚上11:30睡，早上7:00起要落实
 + 下午14:00睡醒的时候容易懈怠，稍微注意一下，其余都挺好
+
+**Snippet**
+
++ [男生护肤](./snippet/男生护肤.md)：**`男生皮肤分类`、`护肤品分类`、`护肤步骤`、`产品推荐`**
++ LeetCode：[70. ClimbStairs](https://leetcode-cn.com/problems/climbing-stairs/)、[101. SymmetricBinaryTree](https://leetcode-cn.com/problems/symmetric-tree/)
++ ARTS：[ARTS是什么](https://www.zhihu.com/question/301150832)、[我的ARTS-Week01](https://github.com/MrArcrM/ARTS/blob/master/Week-01/Week-01.md)
