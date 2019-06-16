@@ -45,6 +45,10 @@
    + 晚上10:00~11:30的1.5小时学习摄影/后期
    + 今晚20:00~21:00找一个kaggle竞赛，周一告诉唐弘舜和唐荣山
 
+**Snippet**
+
++ [我的ARTS-Week02](https://github.com/MrArcrM/ARTS/blob/master/Week-02/Week-02.md)
+
 ---
 
 **Week-01**
