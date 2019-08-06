@@ -4,8 +4,8 @@
 
 | O(Object)               | KR(Key Result)                                         | 8.6-8.11     | 8.12-8.18    | 8.19-8.25    | 8.26-8.31    |
 | ----------------------- | ------------------------------------------------------ | ------------ | ------------ | ------------ | ------------ |
-| O1-驴-准备**KickStart** | 刷4轮KickStart                                         | KickStatrt-1 | KickStatrt-2 | KickStatrt-3 | KickStatrt-4 |
-| O2-驴-了解CV领域        | 看完CV-Course并完成作业                                |              |              |              |              |
+| O1-邓-准备**KickStart** | 刷4轮KickStart                                         | KickStatrt-1 | KickStatrt-2 | KickStatrt-3 | KickStatrt-4 |
+| O2-邓-了解CV领域        | 看完CV-Course并完成作业                                |              |              |              |              |
 | O3-晓-学习英语          | 每天补一篇薄荷阅读（听一遍，学一遍，听一遍，跟读一遍） |              |              |              |              |
 | O4-闲-课外阅读          | 《具体生活》《文明之光-1》                             |              |              |              |              |
 
