@@ -2,7 +2,13 @@
 
 ### OKR-07
 
-| O(Objects) | KR(KeyResult)                                                | 7.1-7.7        | 7.8-7.14               | 7.15-7.21                                                    | ⭐️7.22-7.28                                                   | 7.29-7.31               |              |
+**OKR-07-Conclusion: **
+
++ Total KR value is 0.54
++ I have done a lot of the learning objects. It helps me a lot to crack 3 interviews.
++ I feel good about July.
+
+| O(Objects) | KR(KeyResult)                                                | 7.1-7.7        | 7.8-7.14               | 7.15-7.21                                                    | 7.22-7.28                                                    | 7.29-7.31               |              |
 | ---------- | ------------------------------------------------------------ | -------------- | ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------- | ------------ |
 | O1 - 邓    | [0.9]R1 - LeetCode                                           | ~~2~~          | ~~14 `LeetCode-100`~~  | ~~专题1-BS & O(log n)~~<br>专题2-Two Pointers                | ~~专题3-BFS & T-Sort~~<br>~~专题4-BinaryTree~~<br/>~~专题5-DFS~~ | ~~专题6-DataStructure~~ | ~~专题7-DP~~ |
 |            | ✔️KR2 - 人脸识别                                              | ~~`mtcnn`~~    | ~~`mtcnn` `facenet`~~  | ~~`deepid`~~~~`sphereface`~~                                 | ~~`SphereFace`  `ArcFace` `CosFace`~~                        |                         |              |
@@ -12,7 +18,7 @@
 |            | [0.5]KR6 - CV Basic [8个基本模型](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese/tree/master/B-计算机视觉/pdf/基本模型) |                |                        |                                                              |                                                              |                         |              |
 |            | [0.3]KR7 - CV Raise                                          |                |                        | ~~Lecture-3~~<br>Lecture-4                                   |                                                              |                         |              |
 |            | [0]KR8 - 一个kaggle比赛进入Top 5%                            |                |                        | `sota-1`                                                     |                                                              |                         |              |
-| O3 - 驴    | [0.2]KR8 - 每周健身4天 ⏰1'/d                                 | 1              | 4                      | 4                                                            | 4                                                            | 2                       |              |
+| O3 - 驴    | [0.2]KR9 - 每周健身4天 ⏰1'/d                                 | 1              | 4                      | 4                                                            | 4                                                            | 2                       |              |
 
 ### Daily
 
